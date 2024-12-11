@@ -1,0 +1,13 @@
+Tamanho da janela de simulacao sugerida:
+800 600
+Localizacao dos objectos:
+Tree (Point(20,30),Point(40, 60)
+Grass (Point(70, 50), Point(60,20))
+
+
+    
+
+
+
+
+
